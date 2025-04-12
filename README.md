@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abbos Soatmurodov
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning web programming
-- 💞️ I’m looking to collaborate on (I don't know what I should write)
+- 👀 I’m interested in front-end development, UI/UX design, and JavaScript frameworks.
+- 💞️ I’m looking to collaborate on open-source web projects or beginner-friendly teams.
 - 📫 How to reach me search "Abbos Soatmurodov" on Google
 - 😄 Pronouns: he
 
