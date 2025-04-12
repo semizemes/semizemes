@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @semizemes
+- 👋 Hi, I’m Abbos Soatmurodov
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning web programming
 - 💞️ I’m looking to collaborate on (I don't know what I should write)
